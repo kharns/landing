@@ -1,0 +1,28 @@
+/* BANNER CSS */
+
+header {
+  height: 600px;
+  width: 100%;
+  object-fit: cover;
+  background-image: url(../../images/cloud-forest.jpg);
+  background-position: center;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  margin-top: 0px;
+  color: aliceblue;
+  font-size: 60px;
+  margin-bottom: 0px;
+  text-shadow: rgb(0, 0, 0) 0px 0px 15px;
+}
+
+header p {
+  color: aliceblue;
+  font-size: 25px;
+  text-shadow: rgb(0, 0, 0) 1px 0px 8px;
+}
